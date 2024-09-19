@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Theme Name:    Pdoctor - Real Estate and Architect HTML Template
+Theme Name:    Med Consulting - Real Estate and Architect HTML Template
 Version:        1.0.0
 -------------------------------------------------------------------*/
 /*--------------------------------------------------------------
@@ -2676,7 +2676,7 @@ img {
   position: absolute;
   bottom: -50px;
   width: 584px;
-  height: 615px;
+  height: 815px;
   left: 25px;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 255, 0, 0.2)), to(rgba(0, 71, 255, 0.2)));
   background: linear-gradient(180deg, rgba(158, 255, 0, 0.2) 0%, rgba(0, 71, 255, 0.2) 100%);
@@ -2699,11 +2699,11 @@ img {
   z-index: -1;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   .dc-hero-area .dc-hero-wrap .dc-hero-text {
     text-align: center;
   }
-}
+} */
 
 .dc-hero-area .dc-hero-wrap .dc-hero-text h2 {
   font-style: normal;
@@ -2714,7 +2714,7 @@ img {
   margin-bottom: 20px;
 }
 
-@media (max-width: 1399px) {
+/* @media (max-width: 1399px) {
   .dc-hero-area .dc-hero-wrap .dc-hero-text h2 {
     font-size: 65px;
   }
@@ -2730,7 +2730,7 @@ img {
   .dc-hero-area .dc-hero-wrap .dc-hero-text h2 {
     font-size: 35px;
   }
-}
+} */
 
 .dc-hero-area .dc-hero-wrap .dc-hero-text p {
   font-weight: 300;
@@ -2769,7 +2769,7 @@ img {
           flex-direction: column;
   text-align: center;
 }
-
+/* 
 @media (max-width: 767px) {
   .dc-hero-area .dc-hero-wrap .dc-hero-img .dc-hero-info {
     bottom: 40px;
@@ -2782,7 +2782,7 @@ img {
     width: 150px;
     height: 180px;
   }
-}
+} */
 
 .dc-hero-area .dc-hero-wrap .dc-hero-img .dc-hero-info .icon {
   margin-bottom: 20px;
@@ -3464,7 +3464,7 @@ img {
           transform: translateX(-50%);
   top: -50px;
   content: "\f12f";
-  font-family: 'flaticon_Pdoctor';
+  font-family: 'flaticon_Med Consulting';
   font-size: 120px;
   color: rgba(127, 116, 178, 0.1);
 }
@@ -5700,7 +5700,7 @@ img {
   right: 10px;
   top: 10px;
   content: "\f103";
-  font-family: "flaticon_Pdoctor";
+  font-family: "flaticon_Med Consulting";
   font-size: 90px;
   line-height: 80px;
   color: #ededed;
@@ -6067,7 +6067,7 @@ img {
 }
 
 .dc-blog-single-section .post blockquote:before {
-  font-family: "flaticon_Pdoctor";
+  font-family: "flaticon_Med Consulting";
   content: "\f103";
   font-size: 20px;
   font-size: 1.33333rem;

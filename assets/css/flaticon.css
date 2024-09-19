@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "flaticon_Pdoctor";
-    src: url("../fonts/flaticon_Pdoctor.ttf?7045b902e258fe71962f388ac4171043") format("truetype"),
-url("../fonts/flaticon_Pdoctor.woff?7045b902e258fe71962f388ac4171043") format("woff"),
-url("../fonts/flaticon_Pdoctor.woff2?7045b902e258fe71962f388ac4171043") format("woff2"),
-url("../fonts/flaticon_Pdoctor.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"),
-url("../fonts/flaticon_Pdoctor.svg?7045b902e258fe71962f388ac4171043#flaticon_Pdoctor") format("svg");
+    font-family: "flaticon_Med Consulting";
+    src: url("../fonts/flaticon_Med Consulting.ttf?7045b902e258fe71962f388ac4171043") format("truetype"),
+url("../fonts/flaticon_Med Consulting.woff?7045b902e258fe71962f388ac4171043") format("woff"),
+url("../fonts/flaticon_Med Consulting.woff2?7045b902e258fe71962f388ac4171043") format("woff2"),
+url("../fonts/flaticon_Med Consulting.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_Med Consulting.svg?7045b902e258fe71962f388ac4171043#flaticon_Med Consulting") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_Pdoctor !important;
+    font-family: flaticon_Med Consulting !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;

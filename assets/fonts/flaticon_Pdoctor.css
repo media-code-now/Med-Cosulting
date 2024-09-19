@@ -1,11 +1,11 @@
 @charset "UTF-8";
 @font-face {
-  font-family: "flaticon_Pdoctor";
-  src: url("./flaticon_Pdoctor.ttf?7045b902e258fe71962f388ac4171043") format("truetype"), url("./flaticon_Pdoctor.woff?7045b902e258fe71962f388ac4171043") format("woff"), url("./flaticon_Pdoctor.woff2?7045b902e258fe71962f388ac4171043") format("woff2"), url("./flaticon_Pdoctor.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"), url("./flaticon_Pdoctor.svg?7045b902e258fe71962f388ac4171043#flaticon_Pdoctor") format("svg");
+  font-family: "flaticon_Med Consulting";
+  src: url("./flaticon_Med Consulting.ttf?7045b902e258fe71962f388ac4171043") format("truetype"), url("./flaticon_Med Consulting.woff?7045b902e258fe71962f388ac4171043") format("woff"), url("./flaticon_Med Consulting.woff2?7045b902e258fe71962f388ac4171043") format("woff2"), url("./flaticon_Med Consulting.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"), url("./flaticon_Med Consulting.svg?7045b902e258fe71962f388ac4171043#flaticon_Med Consulting") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-  font-family: flaticon_Pdoctor !important;
+  font-family: flaticon_Med Consulting !important;
   font-style: normal;
   font-weight: normal !important;
   font-variant: normal;
@@ -386,4 +386,4 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-letter-a-inside-a-circle:before {
   content: "";
 }
-/*# sourceMappingURL=flaticon_Pdoctor.css.map */
+/*# sourceMappingURL=flaticon_Med Consulting.css.map */

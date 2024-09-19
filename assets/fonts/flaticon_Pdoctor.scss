@@ -1,16 +1,16 @@
-$flaticon_Pdoctor-font: "flaticon_Pdoctor";
+$flaticon_Med Consulting-font: "flaticon_Med Consulting";
 
 @font-face {
-    font-family: $flaticon_Pdoctor-font;
-    src: url("./flaticon_Pdoctor.ttf?7045b902e258fe71962f388ac4171043") format("truetype"),
-url("./flaticon_Pdoctor.woff?7045b902e258fe71962f388ac4171043") format("woff"),
-url("./flaticon_Pdoctor.woff2?7045b902e258fe71962f388ac4171043") format("woff2"),
-url("./flaticon_Pdoctor.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"),
-url("./flaticon_Pdoctor.svg?7045b902e258fe71962f388ac4171043#flaticon_Pdoctor") format("svg");
+    font-family: $flaticon_Med Consulting-font;
+    src: url("./flaticon_Med Consulting.ttf?7045b902e258fe71962f388ac4171043") format("truetype"),
+url("./flaticon_Med Consulting.woff?7045b902e258fe71962f388ac4171043") format("woff"),
+url("./flaticon_Med Consulting.woff2?7045b902e258fe71962f388ac4171043") format("woff2"),
+url("./flaticon_Med Consulting.eot?7045b902e258fe71962f388ac4171043#iefix") format("embedded-opentype"),
+url("./flaticon_Med Consulting.svg?7045b902e258fe71962f388ac4171043#flaticon_Med Consulting") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_Pdoctor !important;
+    font-family: flaticon_Med Consulting !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -20,7 +20,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$flaticon_Pdoctor-map: (
+$flaticon_Med Consulting-map: (
     "quote": "\f101",
     "play-button": "\f102",
     "quotation": "\f103",
@@ -117,281 +117,281 @@ $flaticon_Pdoctor-map: (
 );
 
 .flaticon-quote:before {
-    content: map-get($flaticon_Pdoctor-map, "quote");
+    content: map-get($flaticon_Med Consulting-map, "quote");
 }
 .flaticon-play-button:before {
-    content: map-get($flaticon_Pdoctor-map, "play-button");
+    content: map-get($flaticon_Med Consulting-map, "play-button");
 }
 .flaticon-quotation:before {
-    content: map-get($flaticon_Pdoctor-map, "quotation");
+    content: map-get($flaticon_Med Consulting-map, "quotation");
 }
 .flaticon-instagram:before {
-    content: map-get($flaticon_Pdoctor-map, "instagram");
+    content: map-get($flaticon_Med Consulting-map, "instagram");
 }
 .flaticon-maps-and-flags:before {
-    content: map-get($flaticon_Pdoctor-map, "maps-and-flags");
+    content: map-get($flaticon_Med Consulting-map, "maps-and-flags");
 }
 .flaticon-play:before {
-    content: map-get($flaticon_Pdoctor-map, "play");
+    content: map-get($flaticon_Med Consulting-map, "play");
 }
 .flaticon-youtube:before {
-    content: map-get($flaticon_Pdoctor-map, "youtube");
+    content: map-get($flaticon_Med Consulting-map, "youtube");
 }
 .flaticon-linkedin:before {
-    content: map-get($flaticon_Pdoctor-map, "linkedin");
+    content: map-get($flaticon_Med Consulting-map, "linkedin");
 }
 .flaticon-instagram-1:before {
-    content: map-get($flaticon_Pdoctor-map, "instagram-1");
+    content: map-get($flaticon_Med Consulting-map, "instagram-1");
 }
 .flaticon-twitter:before {
-    content: map-get($flaticon_Pdoctor-map, "twitter");
+    content: map-get($flaticon_Med Consulting-map, "twitter");
 }
 .flaticon-facebook-app-symbol:before {
-    content: map-get($flaticon_Pdoctor-map, "facebook-app-symbol");
+    content: map-get($flaticon_Med Consulting-map, "facebook-app-symbol");
 }
 .flaticon-calendar:before {
-    content: map-get($flaticon_Pdoctor-map, "calendar");
+    content: map-get($flaticon_Med Consulting-map, "calendar");
 }
 .flaticon-comment-white-oval-bubble:before {
-    content: map-get($flaticon_Pdoctor-map, "comment-white-oval-bubble");
+    content: map-get($flaticon_Med Consulting-map, "comment-white-oval-bubble");
 }
 .flaticon-user:before {
-    content: map-get($flaticon_Pdoctor-map, "user");
+    content: map-get($flaticon_Med Consulting-map, "user");
 }
 .flaticon-phone-call:before {
-    content: map-get($flaticon_Pdoctor-map, "phone-call");
+    content: map-get($flaticon_Med Consulting-map, "phone-call");
 }
 .flaticon-house:before {
-    content: map-get($flaticon_Pdoctor-map, "house");
+    content: map-get($flaticon_Med Consulting-map, "house");
 }
 .flaticon-email:before {
-    content: map-get($flaticon_Pdoctor-map, "email");
+    content: map-get($flaticon_Med Consulting-map, "email");
 }
 .flaticon-location:before {
-    content: map-get($flaticon_Pdoctor-map, "location");
+    content: map-get($flaticon_Med Consulting-map, "location");
 }
 .flaticon-send:before {
-    content: map-get($flaticon_Pdoctor-map, "send");
+    content: map-get($flaticon_Med Consulting-map, "send");
 }
 .flaticon-telephone:before {
-    content: map-get($flaticon_Pdoctor-map, "telephone");
+    content: map-get($flaticon_Med Consulting-map, "telephone");
 }
 .flaticon-placeholder:before {
-    content: map-get($flaticon_Pdoctor-map, "placeholder");
+    content: map-get($flaticon_Med Consulting-map, "placeholder");
 }
 .flaticon-left-quote:before {
-    content: map-get($flaticon_Pdoctor-map, "left-quote");
+    content: map-get($flaticon_Med Consulting-map, "left-quote");
 }
 .flaticon-right-arrows:before {
-    content: map-get($flaticon_Pdoctor-map, "right-arrows");
+    content: map-get($flaticon_Med Consulting-map, "right-arrows");
 }
 .flaticon-right-arrow:before {
-    content: map-get($flaticon_Pdoctor-map, "right-arrow");
+    content: map-get($flaticon_Med Consulting-map, "right-arrow");
 }
 .flaticon-24-hours-support:before {
-    content: map-get($flaticon_Pdoctor-map, "24-hours-support");
+    content: map-get($flaticon_Med Consulting-map, "24-hours-support");
 }
 .flaticon-customer-service:before {
-    content: map-get($flaticon_Pdoctor-map, "customer-service");
+    content: map-get($flaticon_Med Consulting-map, "customer-service");
 }
 .flaticon-telephone-1:before {
-    content: map-get($flaticon_Pdoctor-map, "telephone-1");
+    content: map-get($flaticon_Med Consulting-map, "telephone-1");
 }
 .flaticon-email-1:before {
-    content: map-get($flaticon_Pdoctor-map, "email-1");
+    content: map-get($flaticon_Med Consulting-map, "email-1");
 }
 .flaticon-right-quote-sign:before {
-    content: map-get($flaticon_Pdoctor-map, "right-quote-sign");
+    content: map-get($flaticon_Med Consulting-map, "right-quote-sign");
 }
 .flaticon-google-plus:before {
-    content: map-get($flaticon_Pdoctor-map, "google-plus");
+    content: map-get($flaticon_Med Consulting-map, "google-plus");
 }
 .flaticon-location-1:before {
-    content: map-get($flaticon_Pdoctor-map, "location-1");
+    content: map-get($flaticon_Med Consulting-map, "location-1");
 }
 .flaticon-mail:before {
-    content: map-get($flaticon_Pdoctor-map, "mail");
+    content: map-get($flaticon_Med Consulting-map, "mail");
 }
 .flaticon-play-button-1:before {
-    content: map-get($flaticon_Pdoctor-map, "play-button-1");
+    content: map-get($flaticon_Med Consulting-map, "play-button-1");
 }
 .flaticon-checked:before {
-    content: map-get($flaticon_Pdoctor-map, "checked");
+    content: map-get($flaticon_Med Consulting-map, "checked");
 }
 .flaticon-right-arrow-1:before {
-    content: map-get($flaticon_Pdoctor-map, "right-arrow-1");
+    content: map-get($flaticon_Med Consulting-map, "right-arrow-1");
 }
 .flaticon-left-arrow:before {
-    content: map-get($flaticon_Pdoctor-map, "left-arrow");
+    content: map-get($flaticon_Med Consulting-map, "left-arrow");
 }
 .flaticon-right-arrow-2:before {
-    content: map-get($flaticon_Pdoctor-map, "right-arrow-2");
+    content: map-get($flaticon_Med Consulting-map, "right-arrow-2");
 }
 .flaticon-left-arrow-1:before {
-    content: map-get($flaticon_Pdoctor-map, "left-arrow-1");
+    content: map-get($flaticon_Med Consulting-map, "left-arrow-1");
 }
 .flaticon-left-arrow-2:before {
-    content: map-get($flaticon_Pdoctor-map, "left-arrow-2");
+    content: map-get($flaticon_Med Consulting-map, "left-arrow-2");
 }
 .flaticon-next:before {
-    content: map-get($flaticon_Pdoctor-map, "next");
+    content: map-get($flaticon_Med Consulting-map, "next");
 }
 .flaticon-phone-call-1:before {
-    content: map-get($flaticon_Pdoctor-map, "phone-call-1");
+    content: map-get($flaticon_Med Consulting-map, "phone-call-1");
 }
 .flaticon-search:before {
-    content: map-get($flaticon_Pdoctor-map, "search");
+    content: map-get($flaticon_Med Consulting-map, "search");
 }
 .flaticon-shopping-cart:before {
-    content: map-get($flaticon_Pdoctor-map, "shopping-cart");
+    content: map-get($flaticon_Med Consulting-map, "shopping-cart");
 }
 .flaticon-email-2:before {
-    content: map-get($flaticon_Pdoctor-map, "email-2");
+    content: map-get($flaticon_Med Consulting-map, "email-2");
 }
 .flaticon-pinterest:before {
-    content: map-get($flaticon_Pdoctor-map, "pinterest");
+    content: map-get($flaticon_Med Consulting-map, "pinterest");
 }
 .flaticon-shopping-bag:before {
-    content: map-get($flaticon_Pdoctor-map, "shopping-bag");
+    content: map-get($flaticon_Med Consulting-map, "shopping-bag");
 }
 .flaticon-quote-1:before {
-    content: map-get($flaticon_Pdoctor-map, "quote-1");
+    content: map-get($flaticon_Med Consulting-map, "quote-1");
 }
 .flaticon-smile:before {
-    content: map-get($flaticon_Pdoctor-map, "smile");
+    content: map-get($flaticon_Med Consulting-map, "smile");
 }
 .flaticon-play-1:before {
-    content: map-get($flaticon_Pdoctor-map, "play-1");
+    content: map-get($flaticon_Med Consulting-map, "play-1");
 }
 .flaticon-location-2:before {
-    content: map-get($flaticon_Pdoctor-map, "location-2");
+    content: map-get($flaticon_Med Consulting-map, "location-2");
 }
 .flaticon-email-3:before {
-    content: map-get($flaticon_Pdoctor-map, "email-3");
+    content: map-get($flaticon_Med Consulting-map, "email-3");
 }
 .flaticon-shopping-cart-1:before {
-    content: map-get($flaticon_Pdoctor-map, "shopping-cart-1");
+    content: map-get($flaticon_Med Consulting-map, "shopping-cart-1");
 }
 .flaticon-quote-2:before {
-    content: map-get($flaticon_Pdoctor-map, "quote-2");
+    content: map-get($flaticon_Med Consulting-map, "quote-2");
 }
 .flaticon-phone:before {
-    content: map-get($flaticon_Pdoctor-map, "phone");
+    content: map-get($flaticon_Med Consulting-map, "phone");
 }
 .flaticon-telephone-2:before {
-    content: map-get($flaticon_Pdoctor-map, "telephone-2");
+    content: map-get($flaticon_Med Consulting-map, "telephone-2");
 }
 .flaticon-star-inside-circle:before {
-    content: map-get($flaticon_Pdoctor-map, "star-inside-circle");
+    content: map-get($flaticon_Med Consulting-map, "star-inside-circle");
 }
 .flaticon-patient:before {
-    content: map-get($flaticon_Pdoctor-map, "patient");
+    content: map-get($flaticon_Med Consulting-map, "patient");
 }
 .flaticon-car:before {
-    content: map-get($flaticon_Pdoctor-map, "car");
+    content: map-get($flaticon_Med Consulting-map, "car");
 }
 .flaticon-piggy-bank:before {
-    content: map-get($flaticon_Pdoctor-map, "piggy-bank");
+    content: map-get($flaticon_Med Consulting-map, "piggy-bank");
 }
 .flaticon-justice:before {
-    content: map-get($flaticon_Pdoctor-map, "justice");
+    content: map-get($flaticon_Med Consulting-map, "justice");
 }
 .flaticon-email-4:before {
-    content: map-get($flaticon_Pdoctor-map, "email-4");
+    content: map-get($flaticon_Med Consulting-map, "email-4");
 }
 .flaticon-trophy:before {
-    content: map-get($flaticon_Pdoctor-map, "trophy");
+    content: map-get($flaticon_Med Consulting-map, "trophy");
 }
 .flaticon-engineering:before {
-    content: map-get($flaticon_Pdoctor-map, "engineering");
+    content: map-get($flaticon_Med Consulting-map, "engineering");
 }
 .flaticon-car-parts:before {
-    content: map-get($flaticon_Pdoctor-map, "car-parts");
+    content: map-get($flaticon_Med Consulting-map, "car-parts");
 }
 .flaticon-repair:before {
-    content: map-get($flaticon_Pdoctor-map, "repair");
+    content: map-get($flaticon_Med Consulting-map, "repair");
 }
 .flaticon-oil:before {
-    content: map-get($flaticon_Pdoctor-map, "oil");
+    content: map-get($flaticon_Med Consulting-map, "oil");
 }
 .flaticon-newsletter:before {
-    content: map-get($flaticon_Pdoctor-map, "newsletter");
+    content: map-get($flaticon_Med Consulting-map, "newsletter");
 }
 .flaticon-receiver:before {
-    content: map-get($flaticon_Pdoctor-map, "receiver");
+    content: map-get($flaticon_Med Consulting-map, "receiver");
 }
 .flaticon-quote-3:before {
-    content: map-get($flaticon_Pdoctor-map, "quote-3");
+    content: map-get($flaticon_Med Consulting-map, "quote-3");
 }
 .flaticon-drawing-compass:before {
-    content: map-get($flaticon_Pdoctor-map, "drawing-compass");
+    content: map-get($flaticon_Med Consulting-map, "drawing-compass");
 }
 .flaticon-interior-design:before {
-    content: map-get($flaticon_Pdoctor-map, "interior-design");
+    content: map-get($flaticon_Med Consulting-map, "interior-design");
 }
 .flaticon-gardening:before {
-    content: map-get($flaticon_Pdoctor-map, "gardening");
+    content: map-get($flaticon_Med Consulting-map, "gardening");
 }
 .flaticon-building:before {
-    content: map-get($flaticon_Pdoctor-map, "building");
+    content: map-get($flaticon_Med Consulting-map, "building");
 }
 .flaticon-left-quote-1:before {
-    content: map-get($flaticon_Pdoctor-map, "left-quote-1");
+    content: map-get($flaticon_Med Consulting-map, "left-quote-1");
 }
 .flaticon-view:before {
-    content: map-get($flaticon_Pdoctor-map, "view");
+    content: map-get($flaticon_Med Consulting-map, "view");
 }
 .flaticon-time:before {
-    content: map-get($flaticon_Pdoctor-map, "time");
+    content: map-get($flaticon_Med Consulting-map, "time");
 }
 .flaticon-quote-4:before {
-    content: map-get($flaticon_Pdoctor-map, "quote-4");
+    content: map-get($flaticon_Med Consulting-map, "quote-4");
 }
 .flaticon-book:before {
-    content: map-get($flaticon_Pdoctor-map, "book");
+    content: map-get($flaticon_Med Consulting-map, "book");
 }
 .flaticon-pin:before {
-    content: map-get($flaticon_Pdoctor-map, "pin");
+    content: map-get($flaticon_Med Consulting-map, "pin");
 }
 .flaticon-filter:before {
-    content: map-get($flaticon_Pdoctor-map, "filter");
+    content: map-get($flaticon_Med Consulting-map, "filter");
 }
 .flaticon-bed:before {
-    content: map-get($flaticon_Pdoctor-map, "bed");
+    content: map-get($flaticon_Med Consulting-map, "bed");
 }
 .flaticon-bath:before {
-    content: map-get($flaticon_Pdoctor-map, "bath");
+    content: map-get($flaticon_Med Consulting-map, "bath");
 }
 .flaticon-ruler:before {
-    content: map-get($flaticon_Pdoctor-map, "ruler");
+    content: map-get($flaticon_Med Consulting-map, "ruler");
 }
 .flaticon-alarm:before {
-    content: map-get($flaticon_Pdoctor-map, "alarm");
+    content: map-get($flaticon_Med Consulting-map, "alarm");
 }
 .flaticon-open-mail:before {
-    content: map-get($flaticon_Pdoctor-map, "open-mail");
+    content: map-get($flaticon_Med Consulting-map, "open-mail");
 }
 .flaticon-calendar-1:before {
-    content: map-get($flaticon_Pdoctor-map, "calendar-1");
+    content: map-get($flaticon_Med Consulting-map, "calendar-1");
 }
 .flaticon-phone-call-button:before {
-    content: map-get($flaticon_Pdoctor-map, "phone-call-button");
+    content: map-get($flaticon_Med Consulting-map, "phone-call-button");
 }
 .flaticon-stopwatch:before {
-    content: map-get($flaticon_Pdoctor-map, "stopwatch");
+    content: map-get($flaticon_Med Consulting-map, "stopwatch");
 }
 .flaticon-map:before {
-    content: map-get($flaticon_Pdoctor-map, "map");
+    content: map-get($flaticon_Med Consulting-map, "map");
 }
 .flaticon-html:before {
-    content: map-get($flaticon_Pdoctor-map, "html");
+    content: map-get($flaticon_Med Consulting-map, "html");
 }
 .flaticon-wordpress-logo:before {
-    content: map-get($flaticon_Pdoctor-map, "wordpress-logo");
+    content: map-get($flaticon_Med Consulting-map, "wordpress-logo");
 }
 .flaticon-atom-symbol:before {
-    content: map-get($flaticon_Pdoctor-map, "atom-symbol");
+    content: map-get($flaticon_Med Consulting-map, "atom-symbol");
 }
 .flaticon-letter-a-inside-a-circle:before {
-    content: map-get($flaticon_Pdoctor-map, "letter-a-inside-a-circle");
+    content: map-get($flaticon_Med Consulting-map, "letter-a-inside-a-circle");
 }
